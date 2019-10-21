@@ -1,0 +1,25 @@
+body{
+    background: #010725;
+    color: antiquewhite;
+}
+
+.judul>h1{
+    text-align: center;
+}
+
+.wrapper{
+    text-align: center;
+}
+
+
+.baris-kotak>.kotak{
+    display: inline-block;
+    cursor: pointer;
+    width: 100px;
+    height: 100px;
+    outline-color: antiquewhite;
+    border: 4px solid;
+    border-radius: 10px;
+    margin: 4px 4px;
+    box-shadow: 3px 3px 5px #00030E;
+}
